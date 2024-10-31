@@ -39,9 +39,9 @@ function sideNavToggle() {
 // Slider logic
 let id = 0;
 const images = [
-    'image/faizan3.jpg',
-    'image/faizan2.jpg',
-    'image/faizan4.jpg',
+    './image/faizan3.jpg',
+    './image/faizan2.jpg',
+    './image/faizan4.jpg',
 ];
 const progressWidth = ['33%', '66%', '100%'];
 const text = ['Work', 'Active', 'Travel'];
