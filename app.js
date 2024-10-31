@@ -40,8 +40,8 @@ function sideNavToggle() {
 let id = 0;
 const images = [
     'image/faizan3.jpg',
-    'https://files.oaiusercontent.com/file-uJbnhd3SfLGBBHcq8ONKhOWY?se=2024-10-31T12%3A01%3A17Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D1170ba20-82c9-4fed-878d-5933e09b123f.webp&sig=Q0OZHmqRBJfU7ydriplCkopbvOMOVVjKDkIOw5OAVt8%3D',
-    'https://files.oaiusercontent.com/file-TcCcARhIT0gIqTFNHq6J8tmY?se=2024-10-31T12%3A02%3A48Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D22b2d740-d6c4-4ac1-b021-5761efbb91c6.webp&sig=4o5RsNNcfHYS2V16EqGJNlMtBPncw3eRpzZPnZYj/SY%3D',
+    'image/faizan2.jpg',
+    'image/faizan4.jpg',
 ];
 const progressWidth = ['33%', '66%', '100%'];
 const text = ['Work', 'Active', 'Travel'];
